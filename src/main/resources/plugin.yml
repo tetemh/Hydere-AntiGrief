@@ -1,0 +1,5 @@
+name: Antigriff
+version: '${version}'
+main: fr.tetemh.antigriff.Antigriff
+api-version: 1.16
+description: it's plugin for anti-griff  create by tetemh.dev@gmail.com
